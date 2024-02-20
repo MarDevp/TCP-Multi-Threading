@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class TCPServer {
+public class TCP-Multi-Threading {
     public static void main(String[] args) {
         final int MaxClients = 10;
         final int port = 12345;
